@@ -1,0 +1,21 @@
+#button_logout{
+    font-size: 20px; 
+    float: right; 
+}
+
+
+.input_div_message_page
+{
+	position: fixed; 
+    bottom: 0px; 
+    width: 100%; 
+    background: rgba(255,255,255,0.8);
+    height:7%;
+}
+#msg{
+    height: 50;
+}
+
+#output{
+    background: rgba(255,255,255,0.8);   
+}
